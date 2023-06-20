@@ -1,0 +1,13 @@
+# Nuestro primer CSS en curso FrontEnd
+--------------------------------------------------------------*/
+
+body {
+    background: #34cf4e;
+    color: #444;
+    font-family: "Open Sans", sans-serif;
+  }
+  
+  a {
+    color: #007bff;
+    text-decoration: none;
+}
